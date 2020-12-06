@@ -1,0 +1,62 @@
+*{
+    box-sizing:border-box;
+}
+body{
+    margin:0;
+    
+}
+
+/* Navbar area*/
+nav{
+    font-family: 'Sue Ellen Francisco', cursive;
+    text-align:center;
+    font-size: x-large;
+    padding:0.05rem;
+    background-color:#FFDF6C;
+    border-radius:0px 0px 1rem 1rem;
+    margin-bottom:3rem;
+    color:white;
+
+}
+
+/* Section area*/
+section{
+    margin:auto;
+    
+    text-align:center;
+    background:url("minion.png") no-repeat;
+   
+   
+}
+
+button{
+    margin:3rem 0px;
+    padding:1rem 2rem;
+    font-family: 'Sue Ellen Francisco', cursive;
+    background-color: #FFDF6C;
+    border-radius: 1rem;
+
+}
+textarea{
+    min-width:200px;
+    display:block;
+    margin:auto;
+    width:50vw;
+    height:25vh;
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-size: x-large;
+}
+
+/*Footer area*/
+footer {
+    font-family: 'Sue Ellen Francisco', cursive;
+    bottom: 0;
+    width: 100%;
+    margin-top:3rem;
+    padding: 1rem;
+    background-color: #FFDF6C;
+    text-align:center;
+}
+footer p{
+    font-size:x-large
+}
